@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<SoftwareAG_License>
+<Component Id="SalesInfo">
+<SerialNumber>0000038363</SerialNumber>
+<LicenseKey>3284596DDACC0BF0CA5AA9EFB8B65F64</LicenseKey>
+<CustomerID>Tomas Svensson</CustomerID>
+<CustomerName>Tomas Svensson</CustomerName>
+<ContractDetails>1</ContractDetails>
+<ContractPosNumber>1</ContractPosNumber>
+<LicenseTypeDetails>External</LicenseTypeDetails>
+<AutoCallHome>No</AutoCallHome>
+</Component>
+<Component Id="ProductInfo">
+<ExpirationDate>Unlimited</ExpirationDate>
+<OS>Linux</OS>
+<ProductCode>WCOS1</ProductCode>
+<ProductID/>
+<ProductName>webMethods API Control Plane Self-hosted</ProductName>
+<ProductVersion>11.0</ProductVersion>
+<Usage/>
+<RenewalDate/>
+<HigherLevPosNr/>
+<HigherLevProdCode/>
+<HigherLevProdName/>
+</Component>
+<Component Id="APIControlPlane">
+<ProductCode>WCO</ProductCode>
+<ProductVersion/>
+</Component>
+<Component Id="LicenseInfo">
+<PriceUnit>TEN</PriceUnit>
+<PriceQuantity>1</PriceQuantity>
+<TypeOfInstallation/>
+<LicenseType/>
+<ExtendedRights/>
+<LicenseVersion>1.2</LicenseVersion>
+<Metering>MNO</Metering>
+</Component>
+</SoftwareAG_License>
