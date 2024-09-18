@@ -1,0 +1,9 @@
+Create the directory deployment\helm\license
+Copy the license file to this directory and name it my_cp_license.xml
+
+In the deployment\helm\values.yaml change to the following
+domainName: controlplane.localhost
+ingressClassName: traefik (remove the #)
+In the ingress section
+sslEnabled: false
+In all sections, set number of replicas to 1
